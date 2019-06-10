@@ -1,0 +1,9 @@
+Origin: va2ron1
+Label: va2ron1
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: va2ron1 - iOS repo template
+
